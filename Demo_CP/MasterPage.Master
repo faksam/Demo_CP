@@ -41,12 +41,12 @@
         <!-- Collection of nav links, forms, and other content for toggling -->
         <div id="navbarCollapse " class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
-             <li style="text-align:left"><a href="#"><img src="css/images/about-us.jpg"height="50" width="50">About Us</a></li>
+             <li style="text-align:left"><a href="#"><img alt="About" src="images/about-us.jpg"height="50" width="50">About Us</a></li>
  
-                <li><a href="#"><img src="css/images/home.png" height="50" width="50"> Home</a></li>
-                <li><a href="#"><img src="css/images/contact_us.png" height="50" width="50"> Contact Us</a></li>
+                <li><a href="#"><img alt="Home" src="images/home.png" height="50" width="50"> Home</a></li>
+                <li><a href="#"><img alt="Contact" src="images/contact_us.png" height="50" width="50"> Contact Us</a></li>
                 <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="css/images/request-service-button.png" height="50" width="50"> Request<b class="caret"></b></a>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><img alt="Request" src="images/request-service-button.png" height="50" width="50"> Request<b class="caret"></b></a>
                     <ul  class="dropdown-menu">
 
                         <li><a href="R_Form1.aspx">Xu-ly-hoc-vu</a></li>
@@ -64,7 +64,7 @@
                     </ul>
                 </li>
 
-                <li style="text-align:right"><a href="Login.aspx"><img src="css/images/Log-Out.jpg" height="50" width="50">Logout</a></li>
+                <li style="text-align:right"><a href="Login.aspx"><img alt="Logout" src="images/Log-Out.jpg" height="50" width="50">Logout</a></li>
             </ul>
         </div>
     </nav>

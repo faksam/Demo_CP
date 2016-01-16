@@ -58,7 +58,7 @@
 	}
 .banner
 {
-    background-image: url('css/images/banner.png');
+    background-image: url('images/banner.png');
     background-repeat: no-repeat;
     background-size: cover;
     height: 240px;
@@ -105,9 +105,9 @@
         <div id="navbarCollapse " class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
              <li style="text-align:left">
-             <a href="about_us.aspx"><img src="css/images/about-us.jpg"height="50" width="50">About Us</a></li> 
-                <li><a href="home.aspx"><img src="css/images/home.png" height="50" width="50"> Home</a></li>
-                <li><a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="css/images/contact_us.png" height="50" width="50"> Contact Us<span class="caret"></span></a>
+             <a href="about_us.aspx"><img src="images/about-us.jpg"height="50" width="50">About Us</a></li> 
+                <li><a href="home.aspx"><img src="images/home.png" height="50" width="50"> Home</a></li>
+                <li><a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="images/contact_us.png" height="50" width="50"> Contact Us<span class="caret"></span></a>
                 <ul  class="dropdown-menu">
                         <li><a href="#">Call us</a></li>
                         <li><a href="#">Email us</a></li>
@@ -115,7 +115,7 @@
                     </ul>
                 </li>
                 <li class="dropdown">
-                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="css/images/request-service-button.png" height="50" width="50"> Request<b class="caret"></b></a>
+                    <a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="images/request-service-button.png" height="50" width="50"> Request<b class="caret"></b></a>
                     <ul  class="dropdown-menu">
                         <li><a href="R_Form1.aspx">COURSE REGISTRATION FORM</a></li>
                         <li><a href="R_Form2.aspx">Phieu-bao-luu-hoc-ky</a></li>
@@ -131,7 +131,7 @@
                         <li><a href="#">Trash</a></li>
                     </ul>
                 </li>
-                <li style="text-align:right"><a href="Login.aspx"><img src="css/images/Log-Out.jpg" height="50" width="50">Logout</a></li>
+                <li style="text-align:right"><a href="Login.aspx"><img src="images/Log-Out.jpg" height="50" width="50">Logout</a></li>
             </ul>
         </div>
     </nav>

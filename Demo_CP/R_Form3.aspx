@@ -74,7 +74,7 @@ h2,h3
             <div class="form-header">
                 <div>
                     <div class="img-div">
-                        <img src="css/images/banner.png" height="150" width="400" /></div>
+                        <img src="images/banner.png" height="150" width="400" /></div>
                 </div>
                 <div style="float: left; margin: 5px 20px 0 0;">
                     <h2>

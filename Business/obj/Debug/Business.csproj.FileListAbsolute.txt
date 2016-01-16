@@ -16,15 +16,6 @@ C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 201
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Business\obj\Debug\Business.dll
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Business\obj\Debug\Business.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Business.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Business.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\DAL.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Entity.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\DAL.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Entity.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\bin\Debug\Business.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\bin\Debug\Business.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\bin\Debug\DAL.dll
@@ -34,3 +25,12 @@ C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\bin\Debug\Entity.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\obj\Debug\Business.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Business\obj\Debug\Business.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Business.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Business.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\DAL.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Entity.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\DAL.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\bin\Debug\Entity.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Business\obj\Debug\Business.pdb

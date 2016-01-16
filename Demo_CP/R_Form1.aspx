@@ -12,7 +12,6 @@
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="css/custom.css" rel="stylesheet" type="text/css" />
     <style type="text/css">
-       
     </style>
 </head>
 <body>
@@ -25,7 +24,7 @@
             <div class="form-header">
                 <div>
                     <div class="img-div">
-                        <img src="css/images/banner.png" height="150" width="400" /></div>
+                        <img src="images/banner.png" height="150" width="400" /></div>
                 </div>
                 <div style="float: left; margin: 5px 20px 0 0;">
                     <h2>

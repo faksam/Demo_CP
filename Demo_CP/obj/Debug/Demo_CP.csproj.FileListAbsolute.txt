@@ -20,6 +20,17 @@ C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 201
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Demo_CP\bin\DAL.pdb
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Demo_CP\obj\Debug\Demo_CP.dll
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Demo_CP\obj\Debug\Demo_CP.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Demo_CP.dll
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Demo_CP.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Business.dll
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Entity.dll
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\DAL.dll
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Business.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Entity.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\DAL.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.csprojResolveAssemblyReference.cache
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.dll
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.pdb
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\bin\Demo_CP.dll.config
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\bin\Demo_CP.dll
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\bin\Demo_CP.pdb
@@ -32,14 +43,3 @@ C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\bin\DAL.pdb
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\obj\Debug\Demo_CP.csprojResolveAssemblyReference.cache
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\obj\Debug\Demo_CP.dll
 C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Demo_CP\obj\Debug\Demo_CP.pdb
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Demo_CP.dll
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Demo_CP.pdb
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Business.dll
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Entity.dll
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\DAL.dll
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Business.pdb
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\Entity.pdb
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\bin\DAL.pdb
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.csprojResolveAssemblyReference.cache
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.dll
-C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Demo_CP\obj\Debug\Demo_CP.pdb

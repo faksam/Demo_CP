@@ -7,11 +7,11 @@ C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 201
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Entity\bin\Debug\Entity.pdb
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Entity\obj\Debug\Entity.dll
 C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Entity\obj\Debug\Entity.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\bin\Debug\Entity.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\bin\Debug\Entity.pdb
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\obj\Debug\Entity.dll
-C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\obj\Debug\Entity.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Entity\bin\Debug\Entity.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Entity\bin\Debug\Entity.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Entity\obj\Debug\Entity.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\Entity\obj\Debug\Entity.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\bin\Debug\Entity.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\bin\Debug\Entity.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\obj\Debug\Entity.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\Entity\obj\Debug\Entity.pdb
