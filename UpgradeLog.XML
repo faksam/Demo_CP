@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Demo_CP">
+</Property><Property Name="Solution File" Value="C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Demo_CP.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Demo_CP.suo">
+</Property><Property Name="Date" Value="Wednesday, January 13, 2016">
+</Property><Property Name="Time" Value="17:47 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Demo_CP.sln" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Demo_CP.suo" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP.suo">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Demo_CP.csproj" Description="Project file successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Demo_CP.csproj">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Demo_CP.csproj.user" Description="Project user file successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Demo_CP.csproj.user">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Login.aspx.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Login.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Login.aspx.designer.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Login.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\StudentHome.aspx.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\StudentHome.aspx.cs">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\StudentHome.aspx.designer.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\StudentHome.aspx.designer.cs">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Login.aspx" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Login.aspx">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\StudentHome.aspx" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\StudentHome.aspx">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Web.config" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Demo_CP\Web.config">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Demo_CP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Demo_CP" Source="Demo_CP\Demo_CP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Business" Source="Business\Business.csproj" Description="Project file successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Business\Business.csproj">
+</Event><Event ErrorLevel="0" Project="Business" Source="Business\BOUser.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Business\BOUser.cs">
+</Event><Event ErrorLevel="0" Project="Business" Source="Business\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Business\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Business" Source="Business\Business.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Business" Source="Business\Business.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project file successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DALUser.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\DAL\DALUser.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Project file successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Entity\Entity.csproj">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\User.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Entity\User.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\Backup\Entity\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Entity" Source="Entity\Entity.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Demo_CP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Demo_CP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Demo_CP" Source="Demo_CP\Demo_CP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Business" Source="Business\Business.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Entity" Source="Entity\Entity.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

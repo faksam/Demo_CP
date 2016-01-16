@@ -1,0 +1,20 @@
+C:\Temp\Demo_CP\DAL\bin\Debug\DAL.dll
+C:\Temp\Demo_CP\DAL\bin\Debug\DAL.pdb
+C:\Temp\Demo_CP\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Demo_CP\DAL\obj\Debug\DAL.dll
+C:\Temp\Demo_CP\DAL\obj\Debug\DAL.pdb
+C:\Temp\Demo_CP\DAL\bin\Debug\Entity.dll
+C:\Temp\Demo_CP\DAL\bin\Debug\Entity.pdb
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\bin\Debug\DAL.dll
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\bin\Debug\DAL.pdb
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\bin\Debug\Entity.dll
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\bin\Debug\Entity.pdb
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\obj\Debug\DAL.dll
+C:\Users\Samuel columbus\Documents\Visual Studio 2010\Projects\Visual Studio 2010\Demo_CP\DAL\obj\Debug\DAL.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\bin\Debug\DAL.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\bin\Debug\DAL.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\bin\Debug\Entity.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\bin\Debug\Entity.pdb
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\obj\Debug\DAL.dll
+C:\Users\Samuel\Desktop\Capstone Project\Demo_CP\DAL\obj\Debug\DAL.pdb

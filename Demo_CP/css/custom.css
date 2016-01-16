@@ -1,0 +1,160 @@
+/*custom css*/
+.nav li .btn{
+    margin: 10px 10px 10px 10px;
+}
+.margin-bottom-20{
+    margin-bottom: 20px;
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-10{
+    margin-top: 10px;
+}
+.margin-top-80{
+    margin-top: 80px;
+}
+.margin-top-40{
+    margin-top: 40px;
+}
+/*============================*/
+/*Capstone work*/
+/*html
+{
+ background-color: #f5f5f5;
+}*/
+
+.menu{
+
+    margin: 35px 0 0 0;
+    float: left;
+    width: 93%;
+    overflow: hidden;
+    height: 359px;
+    position: relative;
+    top: 1px;
+    left: 12px;
+}
+
+.header-container{
+/*    background-color: #409ACC;*/
+    width: 100%;
+    min-height: 60px;
+    border-radius: 4px;
+    border: 2px solid brown;
+    /*background-color: #36414D;*/
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position:fixed;
+    top:0;   
+    height:50px;   /* Height of the footer */
+    /*background:#6cf;*/
+}
+.container {
+    width: 760px;
+    margin: 20px auto;
+    overflow: hidden;
+    border-radius: 6px; 
+}
+
+
+
+
+.left-side{
+    float: left;
+    margin: 0 0 0 0;
+    width: 245px;
+    height: 396px;
+}
+.right-side{
+    float: right;
+    margin: 0 0 0 0;
+    width: 245px;
+    height: 60px;
+}
+.galleryItem {
+/*    background-color: #6cf;*/
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: right;
+    margin: 20px 100px 0 0 ;   
+    border-radius: 8px;
+}
+.galleryItem h3 {
+    text-transform: uppercase;
+}
+.galleryItem img {
+    max-width: 100%;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    border: 5px solid #6cf;
+}
+.gallery-section{
+   
+    font: 10px/1.5 Verdana, Helvetica, sans-serif;
+    float: right;
+    margin: 40px 100px 0 0 ;   
+    border-radius: 8px;
+}
+
+
+.row{
+    display: inline;
+    margin-right: 30px;
+}
+ul li{
+    list-style: none;   
+    padding-top: 30px;
+
+}
+ul li a{
+    list-style: none;
+    color: gold;
+    text-decoration: none;
+
+
+}
+ul li a:hover{
+    list-style: none;
+    color: lawngreen;
+    text-decoration: none;
+}
+.form-table table{    
+    margin: 0 20px 0 30px;
+    padding: 0 200px 0 0;
+}
+table input,select{
+    padding-right: 50px;
+}
+.form-map{
+    width: 100%;
+    height:292px;
+    margin: 10px 0 auto 20px;
+    background-color: skyblue;
+}
+
+.footer-sc-menu{
+    width: 100%;
+    background-color: #36414D;
+    overflow: hidden;
+    position:fixed;
+    bottom:0;   
+    height:60px;
+    border-radius: 8px;
+    border: 4px solid darkgray;
+}
+#fileinput-new::before {
+  content: "Upload image";
+  text-indent: 0;
+  display: block;
+  line-height: initial; /* New content takes up original line height */
+}
+/*#fileinput-new::after {
+  content: "Change";
+  text-indent: 0;
+  display: block;
+  line-height: initial;  New content takes up original line height 
+}*/
+/*================================*/
