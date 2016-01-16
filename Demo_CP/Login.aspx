@@ -42,7 +42,7 @@
         .login-img
         {
             float:left;
-            height: 891px;            
+            height: 491px;            
             width: 506px;
             background-color: #dedede;
             
@@ -50,7 +50,7 @@
         .img-con
         {
             margin: 370px 0 0 200px;
-            height: 891px;            
+            height: 491px;            
             width: 506px;
         }
         .style4
@@ -86,7 +86,7 @@
     </div>
     <div class="login-img">
         <div class="img-con">
-            <img src="css/images/BitLocker_icon.png">
+            <img src="images/BitLocker_icon.png">
         </div>
     </div>
     <div class="form-center">

@@ -14,7 +14,7 @@ namespace DAL
         {
            
             //get User from DB
-            SqlConnection con = new SqlConnection("server=faksam;Database=FUOnlineService; Integrated Security=true;");
+            SqlConnection con = new SqlConnection("server=(local);Database=FUOnlineService; Integrated Security=true;");
             con.Open();
             string sql = "SELECT Password FROM Users WHERE UserName='"+login+"'";
             SqlCommand cmd = new SqlCommand(sql, con);
