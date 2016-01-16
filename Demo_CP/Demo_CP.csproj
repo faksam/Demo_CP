@@ -81,13 +81,12 @@
     <Content Include="css\bootstrap-multiselect.css" />
     <Content Include="css\bootstrap-theme.css" />
     <Content Include="css\bootstrap-theme.min.css" />
-    <Content Include="css\bootstrap.css" />
+    <Content Include="action\bootstrap.css" />
     <Content Include="css\bootstrap.min.css" />
     <Content Include="css\chosen\chosen-sprite%402x.png" />
     <Content Include="css\chosen\chosen-sprite.png" />
     <Content Include="css\chosen\chosen.css" />
     <Content Include="css\chosen\chosen.min.css" />
-    <Content Include="css\CSS.css" />
     <Content Include="css\custom.css" />
     <Content Include="css\dashboard.css" />
     <Content Include="css\datatables\dataTables.editor.css" />

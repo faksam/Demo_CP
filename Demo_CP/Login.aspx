@@ -68,20 +68,9 @@
     <div class="header-container">
         <div class="menu-header">
             <div style="float: right; margin: 10px 10px 0 0;">
-                <%--<button type="button" class="btn btn-primary active btn-sm">
-                            <span class="glyphicon glyphicon-log-out"></span> Log out
-                        </button>--%>
+               
             </div>
-            <%--<div class="menu-items" style="float:right;display: inline;margin:20px 100px 0 0;">
-                    
-                    <div style="float:right;margin-left:20px;">
-                        <a href="#"<span class="glyphicon glyphicon-envelope"></span> </a> 
-                    </div>
-                    <div style="float:right;">
-                        <a href="#"<span class="glyphicon glyphicon-user"></span></a>  
-                    </div >
-
-                </div>--%>
+           
         </div>
     </div>
     <div class="login-img">

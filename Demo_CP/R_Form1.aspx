@@ -11,6 +11,7 @@
     <script src="js/jquery.js" type="text/javascript"></script>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="css/custom.css" rel="stylesheet" type="text/css" />
+    <link href="css/CSS.css" rel="stylesheet" type="text/css" />
     <style type="text/css">
        
     </style>
@@ -25,7 +26,7 @@
             <div class="form-header">
                 <div>
                     <div class="img-div">
-                        <img src="css/images/banner.png" height="150" width="400" /></div>
+                        <img src="images/banner.png" height="150" width="400" /></div>
                 </div>
                 <div style="float: left; margin: 5px 20px 0 0;">
                     <h2>
@@ -34,7 +35,7 @@
                         Phieu dang ky hoc</h3>
                 </div>
                 <div>
-                    <textarea placeholder="ID" style="width: 120px; height: 120px; float: left; margin: 0 120px 0 0;"></textarea>
+                    <textarea placeholder="ID" style="width: 120px; height: 120px; border-style:double; float: left; margin: 0 120px 0 0;"></textarea>
                 </div>
             </div>
             <div class="content-area">

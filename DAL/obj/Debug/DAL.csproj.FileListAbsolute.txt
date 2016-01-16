@@ -22,5 +22,6 @@ C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\bin\Debug\DAL.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\bin\Debug\DAL.pdb
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\bin\Debug\Entity.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\bin\Debug\Entity.pdb
+C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\obj\Debug\DAL.dll
 C:\Users\Samuel columbus\Documents\GitHub\Demo_CP\DAL\obj\Debug\DAL.pdb
