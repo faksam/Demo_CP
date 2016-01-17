@@ -10,7 +10,7 @@
     <script src="js/jquery.min.js" type="text/javascript"></script>
     <script src="js/jquery.js" type="text/javascript"></script>
     <link href="css/bootstrap.css" rel="stylesheet" type="text/css" />
-    <link href="css/custom.css" rel="stylesheet" type="text/css" />
+    
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
     <script src="js/bootstrap.min.js"></script>
@@ -32,26 +32,30 @@
 	width: 1170px;
     background-color: white;
     margin: 0 auto;
-    padding: 10px;
+    
     border: 5px solid #dedede;
+    height: 550%;
     }   
  .content-area
 {
     float: left;
-    width: 750px;
-    margin: 20px 0 20px 0;
-    padding: 10px;
-	height: 400px;
+    width:100%;
+    margin: 20px 0 0px 0;
+    padding: 0px;
+	height: 500px;
+	background-color: #cacdce;
 }
 
 	.footer{
     clear: both;
-    width: auto;
-    height: auto;
-    padding: 10px;
-    border: 3px solid #E3E3E3;
-    text-align: center;
-    color: #fff;
+    width: 68%;
+    height: 3%;
+    padding: 2%;
+    border: 1px solid #E3E3E3;
+    text-align: center;    
+    position:fixed;
+    bottom:0;
+    background-color: #747575;
     text-shadow: 0.1em 0.1em #333;
     background-image: url(../Images/bar_background.png);
 
@@ -70,7 +74,7 @@
     <form id="form1" runat="server">
     <div class="menu-left">
         <div class="left-side">
-            <div style="position: relative">
+            <%--<div style="position: relative">
                 <p style="position: fixed; up: 0.0; width: 100%; text-align: right">
                     <font color="blue"><a style="float: left">Welcome User:
                         <%=Session["txtUserName"]%></a></font>
@@ -85,7 +89,7 @@
                         <li><a href="#curAp.jsp">Activities</a> </li>
                     </ul>
                 </div>
-            </div>
+            </div>--%>
         </div>
     </div>
     <div class="bs-example">
@@ -110,8 +114,8 @@
                 <li><a data-toggle="dropdown" class="dropdown-toggle" href="#"><img src="images/contact_us.png" height="50" width="50"> Contact Us<span class="caret"></span></a>
                 <ul  class="dropdown-menu">
                         <li><a href="#">Call us</a></li>
-                        <li><a href="#">Email us</a></li>
-                        <li><a href="#">Skype with us</a></li>                        
+                        <li><a href="mailPage.aspx">Email us</a></li>
+                        <li><a href="https://login.skype.com/login?message=signin_continue&client_id=360605&redirect_uri=https%3A%2F%2Fsecure.skype.com%2Fportal%2Flogin%3Freturn_url%3Dhttps%253A%252F%252Fsecure.skype.com%252Fportal%252Foverview">Skype with us</a></li>                        
                     </ul>
                 </li>
                 <li class="dropdown">

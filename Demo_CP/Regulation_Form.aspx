@@ -54,7 +54,7 @@
                     <p style="text-align:center;font-weight:bold;text-decoration:underline;">DECISION: </p>
                     <p>Article 1. To issue together with this
                     Decision Rules students for higher education sector.</p>
-                    <p> Article 2. To annul the previous
+                    <p> Article 2. To annual the previous
                     relevant Rules are contrary to the Rules. This decision takes effect from the date
                     of signing.</p> 
                     <p>Article 3. The Director of Hoa Lac facility, the Head of Admissions
@@ -71,9 +71,7 @@
                         <li>- Save: Admin, Student affair</li>
                         </ul>
                         <p style="text-align:center;font-weight:bold;text-decoration:underline;">STUDENT RULES</p>
-                   <p style="text-align:center;"> (Issued together with Decision No. /
-                   
-                     QD-DHFPT date Rector of FPT University)  </p>I.
+                   <p style="text-align:center;"> (Issued together with Decision No. /QD-DHFPT date Rector of FPT University)  </p>I.
                     GENERAL PROVISIONS 1. Attendance - Students in class than 5 minutes late will be
                     counted as absent in that slot. - Student absences over 20% of the time regulation
                     of a course will not be allowed to take the final examination and to retake, except

@@ -40,8 +40,7 @@
             </div>
             <div class="form-footer">
                 <a href="home.aspx"><span class="glyphicon glyphicon-thumbs-up">Submit</span> </a>
-                <span></span><span></span><a href="home.aspx"><span class="glyphicon glyphicon-remove">
-                    Cancel</span> </a>
+                <span></span><span></span><a href="home.aspx"><span class="glyphicon glyphicon-remove">Cancel</span> </a>
             </div>
         </div>
     </div>

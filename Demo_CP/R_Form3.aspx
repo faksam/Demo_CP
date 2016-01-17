@@ -23,7 +23,7 @@
             <div class="form-header">
                 <div>
                     <div class="img-div">
-                        <img src="css/images/banner.png" height="150" width="400" /></div>
+                        <img src="images/banner.png" height="150" width="400" /></div>
                 </div>
                 <div style="float: left; margin: 5px 20px 0 0;">
                     <h2>
@@ -39,8 +39,7 @@
             </div>
             <div class="form-footer">
                 <a href="home.aspx"><span class="glyphicon glyphicon-thumbs-up">Submit</span> </a>
-                <span></span><span></span><a href="home.aspx"><span class="glyphicon glyphicon-remove">
-                    Cancel</span> </a>
+                <span></span><span></span><a href="home.aspx"><span class="glyphicon glyphicon-remove">Cancel</span> </a>
             </div>
         </div>
     </div>

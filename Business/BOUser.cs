@@ -17,6 +17,7 @@ namespace Business
             //1)Select the user pwd from the User table
             User uDB = (User)dal.GetUser(u.UserName);
             //2)Compare the pwd with the one submitted by user
+            //if(uDB.Password.Contains(""))
             return uDB.Password.Equals(u.Password);            
         }
     }

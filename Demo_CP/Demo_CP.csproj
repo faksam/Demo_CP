@@ -77,6 +77,7 @@
   <ItemGroup>
     <Content Include="about_us.aspx" />
     <Content Include="action\logout.aspx" />
+    <Content Include="adminPage.aspx" />
     <Content Include="css\bootstrap-datetimepicker.min.css" />
     <Content Include="css\bootstrap-multiselect.css" />
     <Content Include="css\bootstrap-theme.css" />
@@ -437,6 +438,7 @@
     <Content Include="js\validator\validator.js" />
     <Content Include="js\validator\validator.min.js" />
     <Content Include="Login.aspx" />
+    <Content Include="mailPage.aspx" />
     <Content Include="Regulation_Form.aspx" />
     <Content Include="R_Form1.aspx" />
     <Content Include="R_Form2.aspx" />
@@ -465,6 +467,13 @@
     <Compile Include="action\logout.aspx.designer.cs">
       <DependentUpon>logout.aspx</DependentUpon>
     </Compile>
+    <Compile Include="adminPage.aspx.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="adminPage.aspx.designer.cs">
+      <DependentUpon>adminPage.aspx</DependentUpon>
+    </Compile>
     <Compile Include="App_Data\App.cs" />
     <Compile Include="home.aspx.cs">
       <DependentUpon>home.aspx</DependentUpon>
@@ -479,6 +488,13 @@
     </Compile>
     <Compile Include="Login.aspx.designer.cs">
       <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="mailPage.aspx.cs">
+      <DependentUpon>mailPage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="mailPage.aspx.designer.cs">
+      <DependentUpon>mailPage.aspx</DependentUpon>
     </Compile>
     <Compile Include="MasterPage.Master.cs">
       <DependentUpon>MasterPage.Master</DependentUpon>
